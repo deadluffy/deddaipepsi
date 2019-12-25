@@ -29,7 +29,7 @@ for letter in encripted:
         desencripted += alphabet[newPosition]
     else:
         desencripted += letter
-print("разшифрованный текст: ",desencripted)
+print("раcшифрованный текст: ",desencripted)
 print("символы в изначальном тексте:")
 tally(encript)
 print("символы в зашифрованном тексте:")
